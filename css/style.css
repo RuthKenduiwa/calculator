@@ -35,6 +35,15 @@ body{
     font-size: 25px;
     cursor: pointer;
 }
+#delete{
+    background-color: pink;
+    color: black;
+}
+
+#clear{
+    background-color: pink;
+    color: black;
+}
 #equal{
     background-color: pink;
     color: black;
